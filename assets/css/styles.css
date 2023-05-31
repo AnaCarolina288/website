@@ -6,7 +6,12 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+.certificado{
+    color:#5f6b77;
+    margin: 5px 0px;
+    text-align: center;
+    
+}
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
@@ -71,6 +76,7 @@ a.btn-cta-secondary, .btn-cta-secondary {
   color: #fff;
   font-weight: 600;
   text-transform: uppercase;
+  text-align: center;
 }
 
 a.btn-cta-secondary:hover, .btn-cta-secondary:hover {
